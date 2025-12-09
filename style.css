@@ -346,3 +346,20 @@ body {
     font-size: clamp(36px, 6vw, 80px);
     color: var(--text);
 }
+
+
+
+#feature {
+    padding: 60px 20px;
+    z-index: auto;
+    box-shadow: 0 20px 42px #533814 ;
+}
+
+#footer {
+    padding: 60px;
+    background: #111;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-shadow: 0 20px 42px #ffc478 ;
+}
